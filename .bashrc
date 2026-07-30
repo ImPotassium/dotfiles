@@ -57,7 +57,6 @@ alias lsa='ls -a --color' # makes it easier to use the ls -a command with color
 alias un='yay -Rns' # uninstalls (a) package(s) and useless dependencies
 alias up='yay -Syu' # update all packages system and aur
 alias vim='nvim' # muscle memory fix
-alias win='sudo efibootmgr --bootnext 0000 && sudo reboot'
 alias wpc='warp-cli connect' # shortens the command to connect to Cloudflare Warp
 alias wpd='warp-cli disconnect' # shortens the command to disconnect from Cloudflare Warp
 alias xcm='chmod +x' # shortens the command for adding execute perms for files
